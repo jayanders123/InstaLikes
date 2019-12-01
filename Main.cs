@@ -23,7 +23,7 @@ namespace Facebook_Automation
 
         public static void Main(string[] args)
         {
-            ProgramSetup session = new ProgramSetup("therealjeshh", "mnijaila7ls", "https://www.instagram.com/accounts/login/?source=auth_switcher");
+            ProgramSetup session = new ProgramSetup("","","");
 
             session.Login();
 
